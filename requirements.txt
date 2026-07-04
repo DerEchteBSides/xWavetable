@@ -1,0 +1,4 @@
+numpy
+
+# Optional, fuer Drag & Drop von Ordnern in die Inputliste:
+# tkinterdnd2
